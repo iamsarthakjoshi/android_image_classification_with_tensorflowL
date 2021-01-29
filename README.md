@@ -12,8 +12,7 @@ An android based mobile application that classifies objects or images via device
 
 - Choose the cloned project folder (android_image_classification_with_tensorflowL) and click “Open” to launch Android Studio with this app.
 
-- If you run into `Cause: archive is not a ZIP archive` error while building then please comment out line apply line
-`apply from:'download_model.gradle'` line from **build.gradle** file and use this [link](https://drive.google.com/drive/folders/19y9yTCPwYyh_21tg4RN_YjuU1YP_9yUh?usp=sharing) to download model and label file need for TensorFlow Library. Lastly, just copy the whole `assets` folder inside this project's assets folder such as, `/src/main/assets/assets/<model_and_label_files>`
+- If you run into `Cause: archive is not a ZIP archive` error while building then please comment out line `apply from:'download_model.gradle'` line from **build.gradle** file and use this [link](https://drive.google.com/drive/folders/19y9yTCPwYyh_21tg4RN_YjuU1YP_9yUh?usp=sharing) to download model and label file need for TensorFlow Library. Lastly, just copy the whole `assets` folder inside this project's assets folder such as, `/src/main/assets/assets/<model_and_label_files>`
 
 - Now, click on green play icon which is called `Run app`.
 
