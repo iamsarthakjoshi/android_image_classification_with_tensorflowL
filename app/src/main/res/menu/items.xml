@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/camera_item"
+        android:icon="@drawable/ic_photo_camera"
+        android:title="@string/title_camera"/>
+
+    <item
+        android:id="@+id/live_item"
+        android:icon="@drawable/ic_live_camera"
+        android:title="@string/title_live"/>
+
+</menu>

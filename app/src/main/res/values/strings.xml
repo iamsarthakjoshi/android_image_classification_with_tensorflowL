@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">oIdentify</string>
+    <string name="title_home">Home</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_live">Live</string>
+
+    <!-- Fragment's textview strings -->
+    <string name="home_fragment">Home</string>
+    <string name="camera_fragment">Still Image Classifier</string>
+    <string name="live_fragment">Live Image Classifier</string>
+
+    <!-- Alert messages -->
+    <string name="request_permission_cam">This app need camera permission.</string>
+    <string name="camera_support_error">This device does not support Camera2 API.</string>
+
+    <!-- Information about Float model and Quantized model -->
+    <string name="defaultModel">Default: Quantized Model</string>
+    <string name="floatInfo">Please select Float Model for high accuracy with high time cost of inference.</string>
+    <string name="quantInfo">Please select Quantized Model for good accuracy with low time cost of inference.</string>
+
+</resources>
