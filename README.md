@@ -20,5 +20,8 @@ An android based mobile application that classifies objects or images via device
  
 -	Now select one of your emulator devices, for instance `“Pixel 3 API 28”`, or if you have your android device connected, that will show in `“Connected Devices”` and simply select your own device and click ok `“OK”` button to launch this app.
 
+
+Demo video: https://drive.google.com/file/d/1MTHpm7zF9QsQtn033qq0rgHqRltDpT1C/view?usp=sharing
+
  
 Thank you. :)
